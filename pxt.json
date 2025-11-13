@@ -1,5 +1,6 @@
 {
     "name": "chicken rain",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
